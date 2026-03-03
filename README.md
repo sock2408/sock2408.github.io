@@ -1,4 +1,4 @@
-## Hi there 👋
+## Это репозиторий Даниила Баранова 41ПИфм 👋
 
 <!--
 **sock2408/sock2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
